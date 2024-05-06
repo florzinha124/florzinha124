@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil🐳
 
-<!--
-**florzinha124/florzinha124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+meu nome e Carol Oliveira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou estudando na Alura;
+
+-Estou me desenvolvendo na linguagem JavaScript;
+
+-Ultilizo esse espaco para minha organizacao;
+
+### Voce pode entrar em contato comigo.
+
+@caah_souza_124
+
+![](https://media1.tenor.com/m/TYCbI2n0JJsAAAAC/meme.gif)
